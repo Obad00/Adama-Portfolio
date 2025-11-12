@@ -114,7 +114,7 @@ export default function Home() {
       period: '2023',
     },
     {
-      title: 'Diplôme d&apos;Études en Langue Française DELF B2',
+      title: "Diplôme d'Études en Langue Française DELF B2",
       institution: 'Institut Français du Sénégal',
       period: '2023',
     },
@@ -216,7 +216,7 @@ export default function Home() {
                   <Mail size={24} />
                 </a>
                 <a
-                  href="https://linkedin.com/in/adama-dabo"
+                  href="https://www.linkedin.com/in/adama-dabo-982333226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 hover:text-blue-600 transition-colors"
@@ -225,7 +225,7 @@ export default function Home() {
                   <Linkedin size={24} />
                 </a>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Obad00"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 hover:text-blue-600 transition-colors"
@@ -412,7 +412,7 @@ export default function Home() {
               <Mail size={28} />
             </a>
             <a
-              href="https://linkedin.com/in/adama-dabo"
+              href="https://www.linkedin.com/in/adama-dabo-982333226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
               target="_blank"
               rel="noopener noreferrer"
               className="opacity-80 hover:opacity-100 transition-opacity"
@@ -421,7 +421,7 @@ export default function Home() {
               <Linkedin size={28} />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Obad00"
               target="_blank"
               rel="noopener noreferrer"
               className="opacity-80 hover:opacity-100 transition-opacity"
